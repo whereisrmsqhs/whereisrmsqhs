@@ -1,4 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=Cylinder&text=whereisrmsqhs)
+
 ### Hi there 👋
+
+- 🌱 I’m currently learning Java, Spring, JPA
 
 <!--
 **whereisrmsqhs/whereisrmsqhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
