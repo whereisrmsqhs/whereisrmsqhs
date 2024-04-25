@@ -4,6 +4,9 @@
 - 🔭 I’m currently working on football quiz project
 - 🌱 I’m currently learning ReactJS, Typescript, Express, and other Frontend techs
 
+
+![](https://gh-hits.nomadcoders.workers.dev/view?username=whereisrmsqhs)
+
 <!--
 **whereisrmsqhs/whereisrmsqhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
