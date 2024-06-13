@@ -1,6 +1,7 @@
 
 ### Hi there 👋
 
+- 기말 준비중...
 - 🔭 I’m currently working on football quiz project
 - 🌱 I’m currently learning ReactJS, Typescript, Express, and other Frontend techs
 
